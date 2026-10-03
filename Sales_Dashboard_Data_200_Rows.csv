@@ -1,0 +1,201 @@
+Order ID,Order Date,Product,Category,Region,State,Quantity,Unit Price,Discount,Sales,Profit
+ORD-10757,2025-01-01,Tablet,Technology,East,Jharkhand,7,22000,0.11,137060.0,26422.23
+ORD-10143,2025-01-01,Laptop,Technology,North,Haryana,5,65000,0.12,286000.0,46857.26
+ORD-10349,2025-01-02,Printer,Office Supplies,East,Jharkhand,3,15000,0.22,35100.0,4446.0
+ORD-10104,2025-01-02,Printer,Office Supplies,South,Telangana,1,15000,0.25,11250.0,2998.25
+ORD-10913,2025-01-03,Laptop,Technology,North,Delhi,5,65000,0.04,312000.0,71259.41
+ORD-10740,2025-01-04,Printer,Office Supplies,West,Maharashtra,6,15000,0.15,76500.0,9307.23
+ORD-10518,2025-01-04,Monitor,Technology,East,Jharkhand,5,18000,0.13,78300.0,12180.96
+ORD-10796,2025-01-04,Desk,Furniture,East,Jharkhand,1,12000,0.24,9120.0,1773.15
+ORD-10436,2025-01-05,Laptop,Technology,North,Haryana,5,65000,0.19,263250.0,37640.46
+ORD-10596,2025-01-07,Bookshelf,Furniture,South,Telangana,3,7000,0.04,20160.0,1960.08
+ORD-10356,2025-01-08,Laptop,Technology,North,Punjab,5,65000,0.15,276250.0,69031.91
+ORD-10312,2025-01-09,Printer,Office Supplies,West,Gujarat,7,15000,0.18,86100.0,13968.7
+ORD-10946,2025-01-10,Headphones,Technology,East,West Bengal,2,3000,0.2,4800.0,1036.0
+ORD-10148,2025-01-10,Backpack,Office Supplies,South,Andhra Pradesh,5,1800,0.08,8280.0,1494.42
+ORD-10105,2025-01-10,Laptop,Technology,South,Karnataka,4,65000,0.01,257400.0,26699.78
+ORD-10471,2025-01-11,Pen Set,Office Supplies,North,Punjab,4,450,0.21,1422.0,387.77
+ORD-10341,2025-01-12,Tablet,Technology,East,Odisha,3,22000,0.07,61380.0,12314.67
+ORD-10837,2025-01-13,Office Chair,Furniture,West,Gujarat,6,9000,0.22,42120.0,10606.76
+ORD-10440,2025-01-13,Desk,Furniture,South,Tamil Nadu,3,12000,0.04,34560.0,5834.44
+ORD-10021,2025-01-13,Printer,Office Supplies,South,Karnataka,1,15000,0.09,13650.0,2978.58
+ORD-10168,2025-01-13,Smartphone,Technology,East,Bihar,2,35000,0.03,67900.0,11289.08
+ORD-10205,2025-01-14,Printer,Office Supplies,South,Telangana,4,15000,0.15,51000.0,5714.3
+ORD-10696,2025-01-14,Laptop,Technology,South,Tamil Nadu,4,65000,0.22,202800.0,23485.52
+ORD-10325,2025-01-14,Tablet,Technology,North,Uttar Pradesh,6,22000,0.02,129360.0,11387.27
+ORD-10452,2025-01-16,Monitor,Technology,South,Andhra Pradesh,6,18000,0.13,93960.0,10020.08
+ORD-10886,2025-01-16,Printer,Office Supplies,East,Jharkhand,3,15000,0.2,36000.0,5057.76
+ORD-10102,2025-01-16,Bookshelf,Furniture,East,Jharkhand,6,7000,0.1,37800.0,6494.98
+ORD-10769,2025-01-17,Bookshelf,Furniture,North,Punjab,4,7000,0.2,22400.0,4093.41
+ORD-10679,2025-01-17,Pen Set,Office Supplies,West,Rajasthan,3,450,0.03,1309.5,105.86
+ORD-10290,2025-01-18,Laptop,Technology,West,Goa,1,65000,0.17,53950.0,11571.02
+ORD-10023,2025-01-18,Desk,Furniture,North,Haryana,6,12000,0.07,66960.0,7909.45
+ORD-10389,2025-01-18,Printer,Office Supplies,North,Haryana,7,15000,0.06,98700.0,18268.78
+ORD-10340,2025-01-19,Backpack,Office Supplies,East,Bihar,6,1800,0.08,9936.0,1975.76
+ORD-10299,2025-01-19,Notebook,Office Supplies,South,Telangana,7,250,0.1,1575.0,211.25
+ORD-10682,2025-01-19,Tablet,Technology,East,West Bengal,4,22000,0.2,70400.0,11415.91
+ORD-10649,2025-01-19,Desk,Furniture,South,Telangana,6,12000,0.11,64080.0,6038.33
+ORD-10593,2025-01-19,Headphones,Technology,East,Jharkhand,3,3000,0.19,7290.0,1969.08
+ORD-10365,2025-01-20,Headphones,Technology,East,West Bengal,4,3000,0.03,11640.0,1121.16
+ORD-10922,2025-01-21,Backpack,Office Supplies,South,Tamil Nadu,3,1800,0.01,5346.0,837.61
+ORD-10396,2025-01-25,Pen Set,Office Supplies,South,Karnataka,4,450,0.24,1368.0,190.38
+ORD-10644,2025-01-25,Notebook,Office Supplies,South,Telangana,3,250,0.19,607.5,95.11
+ORD-10472,2025-01-26,Office Chair,Furniture,West,Gujarat,1,9000,0.17,7470.0,759.02
+ORD-10960,2025-01-26,Bookshelf,Furniture,East,Jharkhand,5,7000,0.19,28350.0,4219.0
+ORD-10126,2025-01-27,Headphones,Technology,North,Haryana,7,3000,0.01,20790.0,3339.74
+ORD-10722,2025-01-27,Desk,Furniture,South,Andhra Pradesh,6,12000,0.24,54720.0,13859.74
+ORD-10534,2025-01-28,Printer,Office Supplies,East,Odisha,7,15000,0.12,92400.0,19371.35
+ORD-10915,2025-01-29,Backpack,Office Supplies,South,Telangana,6,1800,0.11,9612.0,1254.01
+ORD-10617,2025-01-30,Tablet,Technology,West,Rajasthan,5,22000,0.06,103400.0,21330.57
+ORD-10989,2025-01-31,Printer,Office Supplies,South,Karnataka,1,15000,0.21,11850.0,1077.72
+ORD-10140,2025-02-01,Tablet,Technology,North,Punjab,5,22000,0.22,85800.0,9554.91
+ORD-10157,2025-02-01,Monitor,Technology,North,Punjab,5,18000,0.21,71100.0,11421.66
+ORD-10583,2025-02-06,Tablet,Technology,West,Gujarat,7,22000,0.17,127820.0,14754.35
+ORD-10730,2025-02-07,Desk,Furniture,North,Uttar Pradesh,1,12000,0.16,10080.0,2815.4
+ORD-10387,2025-02-08,Pen Set,Office Supplies,West,Gujarat,1,450,0.05,427.5,95.31
+ORD-10912,2025-02-08,Smartphone,Technology,North,Uttar Pradesh,6,35000,0.19,170100.0,37593.49
+ORD-10844,2025-02-09,Smartphone,Technology,South,Telangana,5,35000,0.05,166250.0,26955.2
+ORD-10466,2025-02-09,Headphones,Technology,South,Telangana,3,3000,0.03,8730.0,1471.94
+ORD-10181,2025-02-10,Headphones,Technology,South,Tamil Nadu,7,3000,0.24,15960.0,4399.71
+ORD-10676,2025-02-11,Bookshelf,Furniture,North,Uttar Pradesh,7,7000,0.06,46060.0,7205.07
+ORD-10502,2025-02-11,Office Chair,Furniture,South,Karnataka,1,9000,0.1,8100.0,681.91
+ORD-10603,2025-02-11,Notebook,Office Supplies,East,Odisha,3,250,0.19,607.5,55.23
+ORD-10425,2025-02-11,Smartphone,Technology,West,Gujarat,5,35000,0.02,171500.0,42914.47
+ORD-10142,2025-02-12,Tablet,Technology,West,Maharashtra,4,22000,0.2,70400.0,6222.17
+ORD-10934,2025-02-12,Headphones,Technology,East,West Bengal,4,3000,0.21,9480.0,958.24
+ORD-10125,2025-02-13,Printer,Office Supplies,West,Maharashtra,1,15000,0.01,14850.0,2823.47
+ORD-10574,2025-02-13,Monitor,Technology,North,Haryana,7,18000,0.09,114660.0,20107.67
+ORD-10779,2025-02-14,Notebook,Office Supplies,West,Gujarat,6,250,0.02,1470.0,256.26
+ORD-10118,2025-02-14,Pen Set,Office Supplies,West,Goa,4,450,0.16,1512.0,247.26
+ORD-10587,2025-02-14,Smartphone,Technology,East,Bihar,3,35000,0.19,85050.0,15585.98
+ORD-10233,2025-02-15,Office Chair,Furniture,East,Jharkhand,1,9000,0.18,7380.0,1752.56
+ORD-10924,2025-02-15,Pen Set,Office Supplies,East,Odisha,3,450,0.09,1228.5,303.79
+ORD-10717,2025-02-16,Notebook,Office Supplies,South,Tamil Nadu,5,250,0.01,1237.5,279.89
+ORD-10967,2025-02-16,Notebook,Office Supplies,West,Goa,1,250,0.07,232.5,64.3
+ORD-10618,2025-02-18,Pen Set,Office Supplies,West,Maharashtra,5,450,0.05,2137.5,506.33
+ORD-10230,2025-02-18,Laptop,Technology,South,Tamil Nadu,3,65000,0.08,179400.0,15380.05
+ORD-10872,2025-02-18,Office Chair,Furniture,West,Gujarat,3,9000,0.05,25650.0,5906.06
+ORD-10951,2025-02-18,Tablet,Technology,South,Andhra Pradesh,2,22000,0.06,41360.0,5776.11
+ORD-10936,2025-02-20,Printer,Office Supplies,South,Telangana,4,15000,0.01,59400.0,12723.63
+ORD-10296,2025-02-20,Backpack,Office Supplies,West,Goa,4,1800,0.17,5976.0,1360.08
+ORD-10378,2025-02-20,Monitor,Technology,South,Andhra Pradesh,6,18000,0.16,90720.0,17489.36
+ORD-10557,2025-02-20,Bookshelf,Furniture,East,Jharkhand,4,7000,0.05,26600.0,6400.02
+ORD-10873,2025-02-21,Smartphone,Technology,West,Goa,6,35000,0.05,199500.0,51750.11
+ORD-10800,2025-02-21,Office Chair,Furniture,South,Tamil Nadu,4,9000,0.08,33120.0,4284.78
+ORD-10042,2025-02-21,Monitor,Technology,North,Punjab,7,18000,0.14,108360.0,22943.31
+ORD-10090,2025-02-23,Office Chair,Furniture,West,Rajasthan,7,9000,0.16,52920.0,12761.28
+ORD-10602,2025-02-24,Monitor,Technology,West,Maharashtra,5,18000,0.22,70200.0,10964.56
+ORD-10660,2025-02-24,Desk,Furniture,East,Jharkhand,5,12000,0.22,46800.0,9786.56
+ORD-10156,2025-02-25,Monitor,Technology,East,Odisha,1,18000,0.2,14400.0,2965.88
+ORD-10813,2025-02-25,Laptop,Technology,South,Tamil Nadu,2,65000,0.04,124800.0,30248.18
+ORD-10020,2025-02-25,Smartphone,Technology,South,Telangana,2,35000,0.06,65800.0,9394.64
+ORD-10843,2025-02-26,Headphones,Technology,South,Karnataka,4,3000,0.09,10920.0,1556.31
+ORD-10434,2025-02-26,Pen Set,Office Supplies,West,Goa,5,450,0.23,1732.5,221.86
+ORD-10698,2025-02-26,Printer,Office Supplies,West,Maharashtra,4,15000,0.15,51000.0,10990.97
+ORD-10397,2025-02-26,Smartphone,Technology,North,Delhi,1,35000,0.21,27650.0,2218.15
+ORD-10648,2025-02-26,Laptop,Technology,West,Gujarat,7,65000,0.09,414050.0,38261.65
+ORD-10385,2025-02-26,Pen Set,Office Supplies,North,Punjab,4,450,0.0,1800.0,290.37
+ORD-10987,2025-02-27,Smartphone,Technology,South,Karnataka,3,35000,0.07,97650.0,25793.1
+ORD-10115,2025-02-27,Laptop,Technology,East,Bihar,1,65000,0.06,61100.0,11757.95
+ORD-10621,2025-02-27,Tablet,Technology,West,Rajasthan,5,22000,0.13,95700.0,25991.08
+ORD-10548,2025-02-28,Printer,Office Supplies,West,Gujarat,6,15000,0.11,80100.0,9013.83
+ORD-10009,2025-02-28,Bookshelf,Furniture,East,Odisha,7,7000,0.06,46060.0,11214.76
+ORD-10089,2025-03-02,Printer,Office Supplies,North,Haryana,4,15000,0.06,56400.0,8601.67
+ORD-10590,2025-03-03,Printer,Office Supplies,East,Odisha,3,15000,0.19,36450.0,7816.71
+ORD-10526,2025-03-04,Monitor,Technology,South,Tamil Nadu,3,18000,0.1,48600.0,7335.96
+ORD-10914,2025-03-05,Pen Set,Office Supplies,East,Bihar,5,450,0.12,1980.0,426.78
+ORD-10092,2025-03-06,Office Chair,Furniture,East,Bihar,4,9000,0.08,33120.0,4034.41
+ORD-10053,2025-03-06,Notebook,Office Supplies,West,Gujarat,6,250,0.06,1410.0,142.26
+ORD-10824,2025-03-07,Tablet,Technology,East,Odisha,7,22000,0.07,143220.0,30449.35
+ORD-10856,2025-03-07,Printer,Office Supplies,South,Tamil Nadu,3,15000,0.03,43650.0,9356.02
+ORD-10925,2025-03-07,Monitor,Technology,North,Punjab,7,18000,0.13,109620.0,20803.89
+ORD-10261,2025-03-09,Monitor,Technology,East,West Bengal,3,18000,0.1,48600.0,4386.58
+ORD-10753,2025-03-09,Laptop,Technology,North,Uttar Pradesh,7,65000,0.15,386750.0,88354.69
+ORD-10484,2025-03-09,Printer,Office Supplies,North,Haryana,5,15000,0.04,72000.0,6358.74
+ORD-10040,2025-03-09,Headphones,Technology,North,Uttar Pradesh,4,3000,0.2,9600.0,1428.4
+ORD-10130,2025-03-10,Bookshelf,Furniture,East,Jharkhand,6,7000,0.24,31920.0,4937.76
+ORD-10304,2025-03-10,Printer,Office Supplies,South,Telangana,7,15000,0.11,93450.0,25741.36
+ORD-10620,2025-03-10,Office Chair,Furniture,South,Andhra Pradesh,6,9000,0.23,41580.0,6770.4
+ORD-10536,2025-03-10,Smartphone,Technology,North,Punjab,4,35000,0.16,117600.0,28546.77
+ORD-10384,2025-03-11,Notebook,Office Supplies,North,Uttar Pradesh,4,250,0.18,820.0,216.03
+ORD-10867,2025-03-11,Pen Set,Office Supplies,South,Karnataka,7,450,0.17,2614.5,349.9
+ORD-10857,2025-03-11,Headphones,Technology,North,Uttar Pradesh,4,3000,0.05,11400.0,2574.83
+ORD-10635,2025-03-12,Bookshelf,Furniture,East,Jharkhand,4,7000,0.07,26040.0,4384.27
+ORD-10297,2025-03-12,Bookshelf,Furniture,North,Uttar Pradesh,6,7000,0.16,35280.0,5365.91
+ORD-10033,2025-03-12,Laptop,Technology,West,Gujarat,6,65000,0.24,296400.0,41492.57
+ORD-10250,2025-03-12,Desk,Furniture,West,Goa,5,12000,0.18,49200.0,6143.29
+ORD-10506,2025-03-12,Office Chair,Furniture,East,West Bengal,4,9000,0.15,30600.0,6744.9
+ORD-10204,2025-03-14,Desk,Furniture,East,West Bengal,5,12000,0.2,48000.0,7845.06
+ORD-10154,2025-03-15,Bookshelf,Furniture,North,Punjab,1,7000,0.13,6090.0,1603.4
+ORD-10789,2025-03-15,Office Chair,Furniture,North,Haryana,5,9000,0.12,39600.0,7738.77
+ORD-10174,2025-03-15,Headphones,Technology,North,Punjab,6,3000,0.24,13680.0,2500.97
+ORD-10501,2025-03-16,Monitor,Technology,East,Odisha,2,18000,0.01,35640.0,9347.23
+ORD-10712,2025-03-17,Tablet,Technology,East,Bihar,7,22000,0.25,115500.0,18703.44
+ORD-10948,2025-03-17,Pen Set,Office Supplies,South,Tamil Nadu,3,450,0.19,1093.5,146.65
+ORD-10783,2025-03-19,Laptop,Technology,South,Karnataka,2,65000,0.23,100100.0,16163.46
+ORD-10615,2025-03-19,Headphones,Technology,North,Haryana,3,3000,0.05,8550.0,1632.51
+ORD-10282,2025-03-19,Pen Set,Office Supplies,South,Tamil Nadu,1,450,0.16,378.0,78.74
+ORD-10215,2025-03-20,Tablet,Technology,North,Uttar Pradesh,5,22000,0.13,95700.0,19186.88
+ORD-10270,2025-03-20,Laptop,Technology,East,West Bengal,5,65000,0.06,305500.0,70885.83
+ORD-10030,2025-03-20,Desk,Furniture,East,Jharkhand,5,12000,0.16,50400.0,9389.07
+ORD-10134,2025-03-20,Headphones,Technology,North,Haryana,3,3000,0.13,7830.0,1273.43
+ORD-10560,2025-03-21,Printer,Office Supplies,West,Goa,4,15000,0.1,54000.0,10431.19
+ORD-10640,2025-03-21,Backpack,Office Supplies,West,Rajasthan,1,1800,0.07,1674.0,151.05
+ORD-10108,2025-03-22,Printer,Office Supplies,South,Karnataka,3,15000,0.1,40500.0,7545.73
+ORD-10687,2025-03-22,Headphones,Technology,North,Uttar Pradesh,5,3000,0.0,15000.0,1731.25
+ORD-10342,2025-03-22,Desk,Furniture,West,Rajasthan,6,12000,0.15,61200.0,13250.2
+ORD-10202,2025-03-23,Printer,Office Supplies,South,Tamil Nadu,2,15000,0.18,24600.0,3479.5
+ORD-10724,2025-03-23,Bookshelf,Furniture,North,Punjab,5,7000,0.13,30450.0,6650.59
+ORD-10883,2025-03-23,Bookshelf,Furniture,South,Karnataka,7,7000,0.02,48020.0,6885.52
+ORD-10007,2025-03-23,Pen Set,Office Supplies,North,Delhi,4,450,0.02,1764.0,345.0
+ORD-10059,2025-03-24,Office Chair,Furniture,North,Delhi,3,9000,0.25,20250.0,1892.3
+ORD-10300,2025-03-25,Tablet,Technology,West,Rajasthan,4,22000,0.19,71280.0,6860.41
+ORD-10995,2025-03-25,Office Chair,Furniture,West,Goa,7,9000,0.02,61740.0,15359.42
+ORD-10836,2025-03-25,Office Chair,Furniture,West,Maharashtra,1,9000,0.19,7290.0,784.59
+ORD-10577,2025-03-25,Notebook,Office Supplies,South,Telangana,4,250,0.12,880.0,208.29
+ORD-10950,2025-03-26,Tablet,Technology,North,Punjab,5,22000,0.19,89100.0,23915.48
+ORD-10616,2025-03-26,Monitor,Technology,South,Telangana,3,18000,0.08,49680.0,12180.86
+ORD-10335,2025-03-26,Bookshelf,Furniture,North,Uttar Pradesh,6,7000,0.24,31920.0,8804.5
+ORD-10373,2025-03-27,Laptop,Technology,East,Bihar,7,65000,0.11,404950.0,86159.14
+ORD-10884,2025-03-28,Backpack,Office Supplies,North,Punjab,4,1800,0.14,6192.0,1497.01
+ORD-10269,2025-03-28,Notebook,Office Supplies,East,Jharkhand,4,250,0.2,800.0,192.87
+ORD-10412,2025-03-29,Printer,Office Supplies,North,Haryana,4,15000,0.07,55800.0,14713.32
+ORD-10450,2025-03-29,Office Chair,Furniture,West,Goa,3,9000,0.08,24840.0,5376.33
+ORD-10755,2025-03-29,Monitor,Technology,North,Delhi,5,18000,0.01,89100.0,13451.1
+ORD-10443,2025-03-31,Office Chair,Furniture,West,Goa,2,9000,0.05,17100.0,4772.85
+ORD-10149,2025-03-31,Notebook,Office Supplies,South,Karnataka,1,250,0.21,197.5,44.69
+ORD-10253,2025-03-31,Notebook,Office Supplies,West,Rajasthan,7,250,0.24,1330.0,353.89
+ORD-10542,2025-03-31,Backpack,Office Supplies,North,Uttar Pradesh,3,1800,0.21,4266.0,854.74
+ORD-10974,2025-03-31,Desk,Furniture,East,Jharkhand,7,12000,0.18,68880.0,16325.44
+ORD-10866,2025-04-01,Laptop,Technology,East,Bihar,4,65000,0.09,236600.0,38108.0
+ORD-10893,2025-04-02,Tablet,Technology,West,Goa,6,22000,0.07,122760.0,26578.53
+ORD-10638,2025-04-02,Tablet,Technology,South,Tamil Nadu,3,22000,0.05,62700.0,7552.77
+ORD-10222,2025-04-02,Laptop,Technology,East,Jharkhand,1,65000,0.23,50050.0,6321.07
+ORD-10315,2025-04-03,Printer,Office Supplies,East,West Bengal,2,15000,0.09,27300.0,5264.71
+ORD-10792,2025-04-03,Headphones,Technology,East,Jharkhand,1,3000,0.04,2880.0,697.05
+ORD-11000,2025-04-03,Bookshelf,Furniture,South,Karnataka,4,7000,0.11,24920.0,5602.16
+ORD-10195,2025-04-04,Backpack,Office Supplies,East,Odisha,1,1800,0.25,1350.0,286.07
+ORD-10633,2025-04-05,Pen Set,Office Supplies,North,Uttar Pradesh,6,450,0.16,2268.0,483.77
+ORD-10719,2025-04-06,Laptop,Technology,North,Punjab,1,65000,0.17,53950.0,10556.5
+ORD-10918,2025-04-07,Notebook,Office Supplies,North,Delhi,1,250,0.19,202.5,18.37
+ORD-10001,2025-04-07,Bookshelf,Furniture,South,Tamil Nadu,1,7000,0.24,5320.0,959.22
+ORD-10153,2025-04-07,Tablet,Technology,East,West Bengal,3,22000,0.24,50160.0,13385.74
+ORD-10127,2025-04-07,Smartphone,Technology,North,Uttar Pradesh,7,35000,0.04,235200.0,58030.61
+ORD-10119,2025-04-07,Bookshelf,Furniture,West,Maharashtra,4,7000,0.06,26320.0,2718.11
+ORD-10495,2025-04-09,Office Chair,Furniture,North,Haryana,3,9000,0.09,24570.0,5115.3
+ORD-10176,2025-04-11,Headphones,Technology,South,Telangana,1,3000,0.08,2760.0,537.12
+ORD-10201,2025-04-11,Headphones,Technology,North,Punjab,1,3000,0.14,2580.0,321.3
+ORD-10522,2025-04-11,Pen Set,Office Supplies,West,Goa,4,450,0.08,1656.0,186.11
+ORD-10509,2025-04-11,Laptop,Technology,North,Haryana,3,65000,0.11,173550.0,27626.98
+ORD-10923,2025-04-12,Laptop,Technology,South,Tamil Nadu,1,65000,0.05,61750.0,7018.24
+ORD-10147,2025-04-13,Bookshelf,Furniture,West,Gujarat,5,7000,0.05,33250.0,4198.68
+ORD-10720,2025-04-13,Office Chair,Furniture,East,West Bengal,1,9000,0.17,7470.0,1841.52
+ORD-10507,2025-04-15,Bookshelf,Furniture,North,Punjab,5,7000,0.14,30100.0,4402.74
+ORD-10014,2025-04-15,Monitor,Technology,North,Punjab,1,18000,0.14,15480.0,3292.67
+ORD-10528,2025-04-15,Bookshelf,Furniture,North,Uttar Pradesh,2,7000,0.05,13300.0,1370.29
+ORD-10013,2025-04-16,Office Chair,Furniture,West,Gujarat,4,9000,0.2,28800.0,3527.7
+ORD-10334,2025-04-16,Printer,Office Supplies,South,Karnataka,4,15000,0.0,60000.0,6311.46
+ORD-10212,2025-04-17,Headphones,Technology,South,Telangana,1,3000,0.19,2430.0,243.12
+ORD-10830,2025-04-17,Headphones,Technology,East,West Bengal,1,3000,0.01,2970.0,760.17
+ORD-10446,2025-04-18,Office Chair,Furniture,East,West Bengal,6,9000,0.2,43200.0,6280.77
+ORD-10767,2025-04-18,Backpack,Office Supplies,South,Andhra Pradesh,3,1800,0.18,4428.0,725.39
